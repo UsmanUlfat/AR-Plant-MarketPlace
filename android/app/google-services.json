@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "691506639052",
+    "firebase_url": "https://ar-base-plant-flutter-default-rtdb.firebaseio.com",
+    "project_id": "ar-base-plant-flutter",
+    "storage_bucket": "ar-base-plant-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691506639052:android:e05f1ccf04b7e7933cd269",
+        "android_client_info": {
+          "package_name": "com.example.ar_base_plant_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691506639052-ojqguio88l2caau7otpbeq8jn7jkbo8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIE1opIZn-1MhhngjZat8x9I2UifKz4Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691506639052-ojqguio88l2caau7otpbeq8jn7jkbo8b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "691506639052-08eq66i21epinmif3qd1t937hjatcqqs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.arBasePlantApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
